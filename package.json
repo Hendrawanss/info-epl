@@ -1,0 +1,16 @@
+{
+  "name": "infobola",
+  "version": "1.0.0",
+  "description": "info kelasemen liga primer inggris",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Awan",
+  "license": "ISC",
+  "dependencies": {
+    "idb": "^2.1.3",
+    "node-fetch": "^2.6.0",
+    "web-push": "^3.4.3"
+  }
+}
